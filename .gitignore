@@ -1,0 +1,28 @@
+# Archivos y directorios específicos de IntelliJ
+.idea/
+*.iml
+
+# Directorio de archivos generados por Maven
+/target/
+
+# Archivos de registro
+*.log
+
+# Archivos generados (JAR, WAR, EAR)
+*.jar
+*.war
+*.ear
+
+# Maven Wrapper
+/.mvn
+mvnw
+mvnw.cmd
+
+# Directorio de archivos de registro personalizados
+/logs/
+
+# Directorio de archivos generados por IntelliJ
+/out/
+
+# Archivos de configuración de Maven (puede variar según tu proyecto)
+pom.xml
